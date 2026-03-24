@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema Cardiovascular'
+message: Modelado de Sistemas Fisiológicos / Ingenieria Biomédica
+type: software
+authors:
+  - given-names: 'Aaron R. '
+    email: l23210716@tectijuana.edu.mx
+    affiliation: 'Tecnológico Nacional de México '
+    family-names: Rosas Montoya
+identifiers:
+  - type: url
+    value: 'https://github.com/aaronrosas08/MSFPractica2'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/aaronrosas08/MSFPractica2'
+keywords:
+  - Modelo de Windkessel
+  - Función de transferencia
+  - Sistemas de control
+  - Hipotenso
+  - Hipertenso
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-23'
