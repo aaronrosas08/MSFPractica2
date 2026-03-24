@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Aaron Raul Rosas Montoya \[23210716]; l23210716@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
