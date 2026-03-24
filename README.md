@@ -2,7 +2,7 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 
 Aaron Raul Rosas Montoya \[23210716]; l23210716@tectijuana.edu.mx
 
